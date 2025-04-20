@@ -1,7 +1,3 @@
-Absolutely! Here’s the simplified **README text** (no folder structure, just copy and paste):
-
----
-
 # HR Analytics Dashboard
 
 ## Project Overview  
@@ -34,6 +30,5 @@ This project is an interactive HR Analytics Dashboard developed using Tableau. I
 - Add predictive analytics using Python  
 - Embed into internal HR platforms via Tableau Server or Public
 
----
+![image](https://github.com/user-attachments/assets/f68db0b1-b59c-4101-8fbc-11c52ab34170)
 
-Let me know if you want a one-liner or LinkedIn-style summary too!
